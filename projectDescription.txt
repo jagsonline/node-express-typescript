@@ -1,1 +1,1 @@
-This project also includes jwt use in the node project.
+This project also includes jwt use in the node & express project.
